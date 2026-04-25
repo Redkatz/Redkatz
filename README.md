@@ -1,1 +1,5 @@
-hey bitch im redkatz!!!! i like making games, art and music shit and i use he/him/any pronouns... swag
+hi im redkatz
+
+i make games in Lua & C#
+
+i draw and make music too
